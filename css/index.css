@@ -1,0 +1,39 @@
+body{
+	background-image: url("../img/home.jpg");
+}
+header {
+	margin: 1em 0;
+	padding:1em 0;
+	height: 3em;
+	opacity: 0.9;
+}
+
+li {
+	display: inline;
+	padding:0;
+	margin:5px;
+	float: left;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: lightseagreen ;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+div{
+	margin-top: 10px;
+}
+img {
+	width: 15em;
+	height: 15em;
+}
